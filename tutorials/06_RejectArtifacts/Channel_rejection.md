@@ -49,7 +49,7 @@ In this window, it is possible to click on individual channel traces, and the ch
 
 Reject channels by index or label
 --------------------------
-If you know which channels are bad, you may reject them using the function [pop_select.m](http://sccn.ucsd.edu/eeglab/locatefile.php?file=pop_select.m) called by selecting the <span style="color: brown">Edit → Select data</span> mneu item. In the example below, we remove channel 3, 45, 55, 73, 74, and 75 identified in the previous sections.
+If you know which channels are bad, you may reject them using the function [pop_select.m](http://sccn.ucsd.edu/eeglab/locatefile.php?file=pop_select.m) called by selecting the <span style="color: brown">Edit → Select data</span> menu item. In the example below, we remove channel 3, 45, 55, 73, 74, and 75 identified in the previous sections.
 
 ![Image:pop_select_new.png](/assets/images/pop_select_new.png)
 
